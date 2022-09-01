@@ -42,5 +42,13 @@
   "peerDependencies": {
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
+  },
+  "homepage": "https://github.com/chenqinyang1994/antd-message-react",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chenqinyang1994/antd-message-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenqinyang1994/antd-message-react/issues"
   }
 }
