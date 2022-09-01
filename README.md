@@ -1,5 +1,10 @@
 ## 只是把antd的message组件单独抽离出来方便使用（无需引入整个antd），用法与antd的message一致
 
+使用前需引入css
+```js
+import 'antd-message-react/dist/index.css';
+```
+
 全局展示操作反馈信息。
 
 ## 何时使用
