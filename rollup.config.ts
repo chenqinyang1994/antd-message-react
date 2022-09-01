@@ -34,7 +34,7 @@ export default {
     typescript(),
     postcss({
       plugins: [autoprefixer(), cssnano()],
-      extract: "style/index.css",
+      extract: "index.css",
     }),
   ],
   external: ["react", "react-dom"],

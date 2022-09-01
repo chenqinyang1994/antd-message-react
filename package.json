@@ -4,7 +4,7 @@
   "description": "notification message like ant-design",
   "main": "dist/cjs.js",
   "module": "dist/esm.js",
-  "files": ["dist/style/*.css", "dist/*.js"],
+  "files": ["dist/*.css", "dist/*.js"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "npm config set registry https://registry.npmjs.org/",
