@@ -5,6 +5,24 @@
 import 'antd-message-react/dist/index.css';
 ```
 
+## 示例
+```js
+import React from 'react';
+import message from 'antd-message-react';
+
+const info = () => {
+    message.info('This is a normal message');
+};
+
+const App = () => (
+    <button onClick={info}>
+        Display normal message
+    </button>
+);
+
+export default App;
+```
+
 全局展示操作反馈信息。
 
 ## 何时使用
