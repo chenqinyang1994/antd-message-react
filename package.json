@@ -1,6 +1,6 @@
 {
   "name": "antd-message-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "notification message like ant-design",
   "main": "dist/cjs.js",
   "module": "dist/esm.js",
